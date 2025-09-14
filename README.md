@@ -1,6 +1,18 @@
-# Blockchain Voting System
+# 🗳️ SecureVote - Government-Grade Blockchain Voting System
 
 A comprehensive blockchain-based voting system implementing a 7-layer architecture for secure, transparent, and privacy-preserving digital elections.
+
+## 🚀 **Live Demo**
+- **Local Development**: http://localhost:3001
+- **Production Ready**: Deploy `client/build/` folder to any hosting service
+
+## ✨ **Enhanced Features**
+- **Government-Grade UI** with professional glass-morphism design
+- **Vote Verification Receipts** with blockchain transaction hashes
+- **Real-Time Results** updating every 5 seconds
+- **Complete Audit Trail** with blockchain integrity verification
+- **Responsive Design** optimized for desktop, mobile, and tablet
+- **Zero-Knowledge Proofs** and cryptographic verification indicators
 
 ## Architecture Overview
 
